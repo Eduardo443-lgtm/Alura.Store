@@ -5,5 +5,5 @@
 <h1>Quem fez essas análises ✍🏼</h1>
 <p>Essa análise foi feita por Eduardo Ramos com a ajuda de Edson Farias</p>
 <h1>Linguagem usada</h1>
-<p> Phyton
+<p> Phyton 📊
 </p>
