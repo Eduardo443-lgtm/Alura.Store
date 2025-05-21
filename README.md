@@ -5,5 +5,5 @@
 <h1>Quem fez essas análises ✍🏼</h1>
 <p>Essa análise foi feita por Eduardo Ramos com a ajuda de Edson Farias</p>
 <h1>Linguagem usada</h1>
-<p> Phyton [![python](https://cdn3.emoji.gg/emojis/1887_python.png)](https://emoji.gg/emoji/1887_python)
+<p> Phyton
 </p>
